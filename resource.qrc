@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="/">
+    <file>icon/tools.png</file>
+    <file>icon/close.png</file>
+    <file>icon/tools.ico</file>
+    <file>icon/quit.png</file>
+    <file>icon/save-mask.png</file>
+    <file>icon/folder.png</file>
+    <file>icon/help.png</file>
+    <file>icon/last.png</file>
+    <file>icon/next.png</file>
+    <file>icon/origin.png</file>
+    <file>icon/run.png</file>
+    <file>icon/save-img.png</file>
+    <file>icon/width.png</file>
+    <file>icon/window.png</file>
+    <file>icon/zoom-in.png</file>
+    <file>icon/zoom-out.png</file>
+  </qresource>
+</RCC>
